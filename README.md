@@ -23,5 +23,17 @@ The backend component of Burger Builder, a React and Django REST API e-commerce 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (67)](https://github.com/samayunPathan/Burger-Builder-Backend-RestAPI/assets/93588462/184deeff-8756-49fe-842b-78d4c4c54197)
+![Screenshot (68)](https://github.com/samayunPathan/Burger-Builder-Backend-RestAPI/assets/93588462/c1dc0f9c-9aff-4721-928d-958d08aa6437)
+
+
+![Uploading Screenshot (65).png…]()
+
+![Screenshot (66)](https://github.com/samayunPathan/Burger-Builder-Backend-RestAPI/assets/93588462/af5fca6a-e264-4536-ae6b-5c50aa50d658)
+
+
+![Screenshot (69)](https://github.com/samayunPathan/Burger-Builder-Backend-RestAPI/assets/93588462/59d2273f-929c-4bab-9ac9-85decf9e0ef1)
+![Screenshot (70)](https://github.com/samayunPathan/Burger-Builder-Backend-RestAPI/assets/93588462/cce3796f-9ddb-47e7-8451-b6377b891f94)
+
+
 
