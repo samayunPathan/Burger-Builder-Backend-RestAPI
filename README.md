@@ -18,7 +18,7 @@ The backend component of Burger Builder, a React and Django REST API e-commerce 
 #### Database:
 - PostgreSQL for robust data storage, scalability, and relational queries.
 #### RESTful API:
--Well-defined and documented API endpoints for seamless data access by the frontend.
+- Well-defined and documented API endpoints for seamless data access by the frontend.
 - Follows industry best practices for RESTful design and authentication.
 
 ## Screenshots
